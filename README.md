@@ -73,3 +73,36 @@ git reset --hard HEAD </br>
 git checkout -b report </br>
 git branch </br>
 git push --set-upstream origin report </br>
+
+# 4. История операций
+
+commit 26c0adc61c4ae9afac94ff6964787d3125ee2c6e (HEAD -> report, origin/report, branch1) </br>
+Author: 4319NikolaevaVI <zavraghost@gmail.com> </br>
+Date:   Fri Nov 15 05:17:24 2024 +0300 </br>
+
+    adding new file
+
+commit bfc27139a0f875fb0979cfc71ed91033079684a4 </br>
+Author: 4319NikolaevaVI <zavraghost@gmail.com> </br>
+Date:   Fri Nov 15 05:16:08 2024 +0300 </br>
+
+    updated
+
+commit dccdf6bc54ac8d2c465e9b0c1f7fc86ca768cdf6 </br>
+Merge: 67b2c7c 0f9f50d </br>
+Author: 4319NikolaevaVI <zavraghost@gmail.com> </br>
+Date:   Fri Nov 15 05:14:26 2024 +0300 </br>
+
+    merged
+
+commit 67b2c7c55a83932d5e4ade1277bdadf2cedcc5cf (origin/master, origin/HEAD) </br>
+Author: Viktoriia Nikolaeva <144121477+zavraghost@users.noreply.github.com> </br>
+Date:   Fri Nov 15 04:14:02 2024 +0300 </br>
+
+    Create NewFile
+
+commit 921f53b8d0cebf542c791cf31f04e9b792f385a4 </br>
+Author: Kurtyanik <45309985+Kurtyanik@users.noreply.github.com> </br>
+Date:   Sat Nov 21 20:09:49 2020 +0300 </br>
+
+    Обновление информации
