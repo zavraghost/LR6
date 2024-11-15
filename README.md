@@ -53,23 +53,23 @@
 
 Ниже приведены команды, использованные в процессе работы:
 
-git config global user.name/email
-git clone https://github.com/zavraghost/LR6
-git pull
-git reflog --all
-git log -p
-git checkout branch1
-git merge master
-git diff
-git add mergefile.txt
-git status
-git commit -m "merged"
-git branch -d master
-git add mergefile.txt
-git commit -m "updated"
-git add fileforcommit.txt
-git commit -m "adding new file"
-git reset --hard HEAD
-git checkout -b report
-git branch
-git push --set-upstream origin report
+git config global user.name/email </br>
+git clone https://github.com/zavraghost/LR6 </br>
+git pull </br>
+git reflog --all </br>
+git log -p </br>
+git checkout branch1 </br>
+git merge master </br>
+git diff </br>
+git add mergefile.txt </br>
+git status </br>
+git commit -m "merged" </br>
+git branch -d master </br>
+git add mergefile.txt </br>
+git commit -m "updated" </br>
+git add fileforcommit.txt </br>
+git commit -m "adding new file" </br>
+git reset --hard HEAD </br>
+git checkout -b report </br>
+git branch </br>
+git push --set-upstream origin report </br>
