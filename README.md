@@ -11,7 +11,7 @@
 
 1. Делаем форк
    ![1](https://github.com/zavraghost/LR6/blob/report/images/11.png)
-2. Задаем имя аользователя и email
+2. Задаем имя пользователя и email
    ![2](https://github.com/zavraghost/LR6/blob/report/images/1.png)
 3. Клонируем удаленный репозиторий на компьютер
    ![3](https://github.com/zavraghost/LR6/blob/report/images/3.png)
