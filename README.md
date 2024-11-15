@@ -17,7 +17,7 @@
    ![3](https://github.com/zavraghost/LR6/blob/report/images/3.png)
 4. Добавляем файл через интерфейс github
    ![4](https://github.com/zavraghost/LR6/blob/report/images/4.png)
-5. Подтягиваем ищменения в локальный репозиторий
+5. Подтягиваем изменения в локальный репозиторий
    ![5](https://github.com/zavraghost/LR6/blob/report/images/5.png)
 6. Получаем историю для каждой ветки
    ![6](https://github.com/zavraghost/LR6/blob/report/images/6.png)
